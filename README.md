@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=K3A101)](https://github.com/K3A101/github-readme-stats)
 ![cONTRIBUTIONS](https://github-readme-stats.vercel.app/api?username=K3A101&show_icons=true&theme=dracula)
 
 <!--

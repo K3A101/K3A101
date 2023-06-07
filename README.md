@@ -1,5 +1,5 @@
 ### Hi there 👋
-![cONTRIBUTIONS](https://github-readme-stats.vercel.app/api?username=K3A101&show_icons=true&theme=dracula))
+![cONTRIBUTIONS](https://github-readme-stats.vercel.app/api?username=K3A101&show_icons=true&theme=dracula)
 
 <!--
 **K3A101/K3A101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
